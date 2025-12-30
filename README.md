@@ -39,12 +39,5 @@ I specialize in building **Hybrid Architectures** — combining robust **NestJS*
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=3cgbdg&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3cgbdg&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bogdan-tytysh-0b76b1290)
