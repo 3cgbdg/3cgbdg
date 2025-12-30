@@ -18,7 +18,6 @@ I specialize in building **Hybrid Architectures** — combining robust **NestJS*
 **AI & Automation (My Focus)**
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -42,10 +41,8 @@ I specialize in building **Hybrid Architectures** — combining robust **NestJS*
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3cgbdg&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3cgbdg&layout=compact&theme=radical&hide_border=true" height="150" alt="langs" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=3cgbdg&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3cgbdg&layout=compact&theme=radical&hide_border=true)
 
 ---
 
