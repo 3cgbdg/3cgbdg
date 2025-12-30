@@ -1,16 +1,53 @@
-## Hi there 👋
+### Hi there, I'm Bogdan! 👋
 
-<!--
-**3cgbdg/3cgbdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Engineer** & **Automation Specialist** based in Lviv, Ukraine.
+I specialize in building **Hybrid Architectures** — combining robust **NestJS** backends with **AI Agents** and **n8n** workflows to deliver scalable production systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Backend & Architecture**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**AI & Automation (My Focus)**
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 **AI RAG Agent & Hybrid Workflow**
+*An autonomous agent that processes PDF documents via Google Drive API.*
+- **Stack:** n8n, NestJS, OpenAI API, Docker, PostgreSQL.
+- **Key Feature:** Implemented non-blocking audit logging and hybrid orchestration.
+
+#### 🔄 **SkillSwapAI**
+*Microservices-based skill exchange platform.*
+- **Stack:** NestJS, Python (FastAPI), AWS S3, Redis.
+- **Key Feature:** Real-time presence system & scalable backend architecture.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3cgbdg&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3cgbdg&layout=compact&theme=radical&hide_border=true" height="150" alt="langs" />
+</div>
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bogdan-tytysh-0b76b1290)
